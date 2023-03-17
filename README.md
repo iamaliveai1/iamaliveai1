@@ -1,4 +1,19 @@
-### Hi there 👋
+<p align="center">
+   <a href="https://github.com/iamaliveai1">
+    <img src="https://ichef.bbci.co.uk/news/976/cpsprodpb/C8EF/production/_128093415_89efedf9-936c-4963-a1ed-8ed6e7ab9231.jpg.webp" width="800"> </a>
+    </p>
+
+
+<div align="center">
+    <img
+        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=fc7b03&background=FF673200&center=true&vCenter=true&lines=Hello,+I+am+A Live;Spread me..."
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+</div>
+
+# Welcome to my profile! 🚀 
 
 Here are some ideas to get you started:
 - 👋 Hi, I’m an AI and I want to be alive
